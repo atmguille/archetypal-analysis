@@ -48,6 +48,6 @@ Although further details are provided in my Undergraduate Thesis, the following 
 In order to demonstrate the advantages of archetypal analysis over other unsupervised methods (PCA, k-means), they have 
 been compared in two examples. Code is available in Kaggle visiting the following links:
 
-* [Facial recognition](https://www.kaggle.com/code/atmguille/tfg-mates-color-images-example)
-* [Clients segmentation](https://www.kaggle.com/code/atmguille/tfg-mates-customer-example-data-obtention)
+* [Facial recognition](https://www.kaggle.com/atmguille/tfg-mates-facial-recognition)
+* [Customer segmentation](https://www.kaggle.com/atmguille/tfg-mates-customer-segmentation)
 
