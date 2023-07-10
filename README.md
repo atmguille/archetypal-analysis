@@ -7,7 +7,7 @@ This repository contains an implementation of three main algorithms to compute a
 * Adaptation of the Frank-Wolfe algorithm (AA_Fast), as proposed in [Archetypal Analysis as an Autoencoder](https://www.researchgate.net/publication/282733207_Archetypal_Analysis_as_an_Autoencoder).
 
 I developed this code as part of my Mathematics Undergraduate Thesis on Archetypal Analysis 
-at UAM, available [here]().
+at UAM. Find the original Thesis in Spanish [here](/Thesis/%5BSpanish%5D%20Analisis%20de%20arquetipos%20y%20aplicaciones.pdf), and an English translation [here](/Thesis/%5BEnglish%5D%20Archetypal%20analysis%20and%20applications.pdf).
 
 ## Python implementation
 
